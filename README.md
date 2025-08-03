@@ -1,4 +1,4 @@
 # VICKY-DEMO
 This is my first Git Repository 
 <br>
-Author -vicky Gupta
+Author -vicky Gupta (Vicky Brand)
