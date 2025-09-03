@@ -3,7 +3,6 @@ This is my first Git Repository
 <br>
 Author -vicky Gupta (Vicky Brand)
 # 👋 Hi, I'm Vicky Kumar Gupta  
-
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=550&duration=2000&pause=1000&lines=Frontend+Developer;MERN+Stack+Learner;Open+Source+Explorer;Tech+Enthusiast" />
 </p>
